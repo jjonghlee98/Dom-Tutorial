@@ -1,4 +1,4 @@
-// Exam 1
+// // Exam 1
 // const buttons = document.querySelectorAll('button');
 // const h1s = document.querySelectorAll('h1');
 
